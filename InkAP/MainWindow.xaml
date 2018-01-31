@@ -1,7 +1,7 @@
 ﻿<Window x:Class="InkAP.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Ink Pad 2" Height="540.042" Width="655.458" Background="Brown" Icon="/InkAP;component/Images/Chrysanthemum.jpg">
+        Title="Ink Pad 2" Height="550" Width="650" Background="Brown" Icon="/InkAP;component/Images/Chrysanthemum.jpg">
     <Grid>
         <InkCanvas Height="Auto" HorizontalAlignment="Stretch" Margin="9,9,9,68
                    " Name="inkCanvas1" VerticalAlignment="Stretch" Width="Auto" Background="LightYellow" />
